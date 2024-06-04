@@ -1,9 +1,6 @@
 ## Hi there 👋
 
 <!--
-**Diego-Sabatini/Diego-Sabatini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on industrial cleaning, obviously not my area.
 - 🌱 I’m currently learning Programming Logic.
