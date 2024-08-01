@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Diego 😁
+## o/
 
  <div>
    <a href="https://github.com/Diego-Sabatini">
